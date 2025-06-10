@@ -1,7 +1,6 @@
 
 # Upstox Mutual Fund Experience Improvement: SIP Inflexibility & Feature Gap
 
-![Upstox Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Upstox_Logo.svg/2560px-Upstox_Logo.svg.png)
 
 ## 📌 Problem Statement
 
