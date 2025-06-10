@@ -43,8 +43,6 @@ Dataset: [Indian Mutual Fund Dataset (Kaggle)](https://www.kaggle.com/datasets/r
 
 ---
 
----
-
 ## 📊 Key Insights
 
 * **68% of users** who attempted to modify SIPs ended up cancelling them.
