@@ -70,8 +70,6 @@ Dataset: [Indian Mutual Fund Dataset (Kaggle)](https://www.kaggle.com/datasets/r
 
 ---
 
----
-
 ## 📂 Files Included
 
 * [`SIP_Case_Study_Product_Analyst.ipynb`](notebook/SIP_Case_Study_Product_Analyst.ipynb): Full EDA & analysis
