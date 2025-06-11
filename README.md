@@ -73,7 +73,6 @@ Dataset: [Indian Mutual Fund Dataset (Kaggle)](C:\Users\Radhika Patil\Downloads\
 ## 📂 Files Included
 
 * [`SIP_Case_Study_Product_Analyst.ipynb`](http://localhost:8888/notebooks/upstoxs.ipynb): Full EDA & analysis
-* [`SIP_Product_Analyst_Case_Study.pptx`](https://docs.google.com/document/d/1bQOK6uuhQaQLJidETy5S290Ahlw2GDwHBiTghIu7jCs/edit?tab=t.0): insights deck
 
 ---
 
